@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Jack Colley - Blog
 paginate:       5
 baseurl:        ""
 url:            "https://chesterhow.github.io/tale"
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Jack Colley
+  url:          http://jackcolley.co.uk
+  email:        jack@jackcolley.co.uk
 
 # Custom vars
 version:        3.4.1
