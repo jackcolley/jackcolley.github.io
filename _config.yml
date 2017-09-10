@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jack Colley - Blog
+title:          Jack Colley
 paginate:       5
 baseurl:        ""
 url:            "https://jackcolley.github.io/"
@@ -27,5 +27,5 @@ github:
   repo:         https://github.com/chesterhow/tale
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate

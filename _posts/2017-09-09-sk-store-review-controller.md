@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Instagram doubled its iOS app ratings in a week and how you can too"
+title: "How Instagram Doubled Its App Reviews In 2 Weeks and How You Can Too"
 author: "Jack"
 ---
 
