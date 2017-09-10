@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Jack Colley - Blog
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://jackcolley.github.io/"
 
 # Assets
 sass:
