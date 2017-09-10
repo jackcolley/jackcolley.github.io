@@ -1,8 +1,8 @@
-—--
+---
 layout: post
-title: “How Instagram doubled its iOS app ratings in a week and how you can too”
-author: “Jack Colley”
-—--
+title: "How Instagram doubled its iOS app ratings in a week and how you can too"
+author: "Jack"
+---
 
 I’m sure you’ve already either seen this story posted around the web or you’ve heard someone talking about it. How Instagram doubled their iOS app ratings in a week with more than 2 million reviews given. Just in case you haven’t read the story or want to read it again. You can read it [here](https://medium.com/huggingface/instagram-doubled-its-ios-reviews-in-a-week-thanks-to-this-new-in-app-review-popup-52333d4f4ce6).
 
