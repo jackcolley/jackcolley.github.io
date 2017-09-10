@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Jack Colley
 paginate:       5
 baseurl:        ""
-url:            "https://jackcolley.github.io/"
+url:            "https://jackcolley.github.io"
 
 # Assets
 sass:
